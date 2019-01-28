@@ -1,0 +1,7 @@
+#Mon Jan 28 15:07:20 BRST 2019
+base.0=/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dbce716ed9dacdabd10fdd362a3e3d9326e58b88
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b776719e3f20b7df55cabed1069201cd9074c664/classes.dex
+base.1=/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b776719e3f20b7df55cabed1069201cd9074c664
+file.0=/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dbce716ed9dacdabd10fdd362a3e3d9326e58b88/classes.dex

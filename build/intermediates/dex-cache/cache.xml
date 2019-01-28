@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.android/build-cache/7649a6da86a29a306d3d40f826d292c8e1f9b660/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_132f04c02974ad555e844e2b5e6ece4da7c2e5fc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.android/build-cache/7649a6da86a29a306d3d40f826d292c8e1f9b660/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_132f04c02974ad555e844e2b5e6ece4da7c2e5fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.android/build-cache/7f507bc51eaa5eaef956fee0a1c1ca8727ace51e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec3360994c4007c282a4b651723603e82682b601">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_cd871614ce88b6c74726af1306b84b245887b690.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.5.0/d737653459be272e881d51024274fa4785225641/okhttp-urlconnection-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d737653459be272e881d51024274fa4785225641">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-2.5.0_4ce0da8625943bce2ed1dc253947f43d96e6db86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.android/build-cache/d6d46dca8b403ced1906ba2ac59edc1d1e7af774/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0624ead041f434fd11b527824dad79c88c81ecf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_756cc9b1d0fa41af210af7b01617d8261498b20a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.android/build-cache/4d14b306e6f5945927628d630b4dfb60995bb007/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2820418132aa64b0e902096631f27d5c2f6b1b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.android/build-cache/7220bfa76239f13d365622eda5f761cfd161f892/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59a58f4e54166273a987d13c50b08fc83f29d99b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.android/build-cache/4d14b306e6f5945927628d630b4dfb60995bb007/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_d2820418132aa64b0e902096631f27d5c2f6b1b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.android/build-cache/41dfabd8012c3b6395840b41991d86226865a5e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_46f8524d193edcb836911fb7152aa73f4c5fd3a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.android/build-cache/529d4f09c52d646eb30cac8d94172808d320d5b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef9ea29c7b09b3af6dc85092834b9c11422ff8f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.android/build-cache/529d4f09c52d646eb30cac8d94172808d320d5b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_ef9ea29c7b09b3af6dc85092834b9c11422ff8f6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.android/build-cache/41dfabd8012c3b6395840b41991d86226865a5e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46f8524d193edcb836911fb7152aa73f4c5fd3a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.android/build-cache/fb07aa7298feddddddca6717e33ede1fbc1f4c7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_7c737f740c589cf55e3abf34a1a2546c5adc1f56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.android/build-cache/7220bfa76239f13d365622eda5f761cfd161f892/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_59a58f4e54166273a987d13c50b08fc83f29d99b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dbce716ed9dacdabd10fdd362a3e3d9326e58b88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_28ab96a12d32f5f433f2922d7091a43c838b5b6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.android/build-cache/fb07aa7298feddddddca6717e33ede1fbc1f4c7a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c737f740c589cf55e3abf34a1a2546c5adc1f56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.android/build-cache/445e90dc134bddabbd9803eb8fa8590896a08b6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75a0f1d8e0a216dce7e1fbd6defb62ad8d46dd96/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.android/build-cache/445e90dc134bddabbd9803eb8fa8590896a08b6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_75a0f1d8e0a216dce7e1fbd6defb62ad8d46dd96.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_2e98794c987cda37beb47fda7dbedafb856e7776/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.android/build-cache/8dbafca9079d66aefb506a2ceee1a26fb90bc1e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_24bc19ded49ed1df4465b818cfc93ea7c6b59eed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_2e98794c987cda37beb47fda7dbedafb856e7776.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.android/build-cache/8dbafca9079d66aefb506a2ceee1a26fb90bc1e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24bc19ded49ed1df4465b818cfc93ea7c6b59eed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_79dcaf369498df54949b6fe08f29c5a6fcc5727d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.android/build-cache/99aed3563512a26f6564a22b6c660171bc65dafe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_dfe901c0811c7a314544a4023196e8dbcff17c73.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_96eed4ce29f34d7c0c6de7d24f2585a69eb6d9b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/volley_79dcaf369498df54949b6fe08f29c5a6fcc5727d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.android/build-cache/7f507bc51eaa5eaef956fee0a1c1ca8727ace51e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec3360994c4007c282a4b651723603e82682b601">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd871614ce88b6c74726af1306b84b245887b690/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_d79d0ebb72f696c4ff87d6214cb205980260836c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_d79d0ebb72f696c4ff87d6214cb205980260836c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.android/build-cache/99aed3563512a26f6564a22b6c660171bc65dafe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfe901c0811c7a314544a4023196e8dbcff17c73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.android/build-cache/9d7d58698392e69bd5e4bae95791c20b2c8cfd35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09adf6e61abc0fe3b2cb5b1795a7033572475fad">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aac7e18f5631a251751a8be80cc4ec49f1465a33/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.android/build-cache/9d7d58698392e69bd5e4bae95791c20b2c8cfd35/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09adf6e61abc0fe3b2cb5b1795a7033572475fad">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_aac7e18f5631a251751a8be80cc4ec49f1465a33.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.android/build-cache/3f60d3efbd7f60f9ea921ed18aa49658c884df9d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_520367b8ac63bc8760a297d7b43e739d857e1e42/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.android/build-cache/2c2d0994a72d4ed85d7bb608694d612816eda60a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_aae74db45f4ae321bf9da659f82f359a3dec2983.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff29a776f30e4143d5f70e72ce2a8339f842aee1">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b776719e3f20b7df55cabed1069201cd9074c664/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/.android/build-cache/2c2d0994a72d4ed85d7bb608694d612816eda60a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aae74db45f4ae321bf9da659f82f359a3dec2983/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/felipe.bahiense/.android/build-cache/3f60d3efbd7f60f9ea921ed18aa49658c884df9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_520367b8ac63bc8760a297d7b43e739d857e1e42.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
+        "source": "/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
+        "source": "/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
+        "source": "/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
+        "source": "/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+    }
+]

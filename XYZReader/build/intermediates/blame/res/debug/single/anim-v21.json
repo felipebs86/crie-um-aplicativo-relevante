@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
+        "source": "/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
+    },
+    {
+        "merged": "/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
+        "source": "/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
+    }
+]
