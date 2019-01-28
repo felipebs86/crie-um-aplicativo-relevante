@@ -1,18 +1,36 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/89873b5fde98173e9890fee9a6ed4409/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:design:23.1.1] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/b2a61015a6463a9198b7cf0698e916f9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f360c3f230aa8dc80be5754de595a02f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/735e3e8612716d5b3e9984ecb7bad233/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/7e0711c00fa4c86e71c3b143c6265232/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/3a59358356b9ce85e99ae1331008be40/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/5692775e7d17ab2eef080864ca334756/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/4859babae05e842ab6d1d9ccb3377e6b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/a0a43345e80c4b6f0e98ecc712169d41/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/1d882543609642155350bdee51c81f59/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d4b99bd9b6fc1c818d50d1b292262763/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a0f637aa2670f1d2ddc4c1c0550607eb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/18fad9c7cec3278c1c64cc6daa813a4b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/251b1a345cfc6d662f0318b57aa442e1/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
 	package
 		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:2:5-36
 	android:versionName
 		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:4:5-30
 		INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml
 		INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:1:11-69
 	android:versionCode
 		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:3:5-28
 		INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml
 		INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:6:5-67
 	android:name
@@ -31,25 +49,38 @@ ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-re
 		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:9:22-76
 application
 ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
-MERGED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.android/build-cache/9d7d58698392e69bd5e4bae95791c20b2c8cfd35/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:palette-v7:25.3.0] /home/felipe.bahiense/.android/build-cache/7f507bc51eaa5eaef956fee0a1c1ca8727ace51e/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:cardview-v7:25.3.0] /home/felipe.bahiense/.android/build-cache/529d4f09c52d646eb30cac8d94172808d320d5b9/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:design:23.1.1] /home/felipe.bahiense/.android/build-cache/d6d46dca8b403ced1906ba2ac59edc1d1e7af774/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.0] /home/felipe.bahiense/.android/build-cache/fb07aa7298feddddddca6717e33ede1fbc1f4c7a/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/felipe.bahiense/.android/build-cache/99aed3563512a26f6564a22b6c660171bc65dafe/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/felipe.bahiense/.android/build-cache/8dbafca9079d66aefb506a2ceee1a26fb90bc1e2/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.0] /home/felipe.bahiense/.android/build-cache/445e90dc134bddabbd9803eb8fa8590896a08b6e/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.0] /home/felipe.bahiense/.android/build-cache/7220bfa76239f13d365622eda5f761cfd161f892/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.0] /home/felipe.bahiense/.android/build-cache/41dfabd8012c3b6395840b41991d86226865a5e5/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.0] /home/felipe.bahiense/.android/build-cache/4d14b306e6f5945927628d630b4dfb60995bb007/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.0] /home/felipe.bahiense/.android/build-cache/3f60d3efbd7f60f9ea921ed18aa49658c884df9d/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.0] /home/felipe.bahiense/.android/build-cache/7649a6da86a29a306d3d40f826d292c8e1f9b660/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/89873b5fde98173e9890fee9a6ed4409/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/89873b5fde98173e9890fee9a6ed4409/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:23.1.1] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/b2a61015a6463a9198b7cf0698e916f9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/b2a61015a6463a9198b7cf0698e916f9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f360c3f230aa8dc80be5754de595a02f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f360c3f230aa8dc80be5754de595a02f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/735e3e8612716d5b3e9984ecb7bad233/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/735e3e8612716d5b3e9984ecb7bad233/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:palette-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/7e0711c00fa4c86e71c3b143c6265232/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/7e0711c00fa4c86e71c3b143c6265232/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/5692775e7d17ab2eef080864ca334756/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/5692775e7d17ab2eef080864ca334756/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/4859babae05e842ab6d1d9ccb3377e6b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/4859babae05e842ab6d1d9ccb3377e6b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/a0a43345e80c4b6f0e98ecc712169d41/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/a0a43345e80c4b6f0e98ecc712169d41/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/1d882543609642155350bdee51c81f59/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/1d882543609642155350bdee51c81f59/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d4b99bd9b6fc1c818d50d1b292262763/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d4b99bd9b6fc1c818d50d1b292262763/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a0f637aa2670f1d2ddc4c1c0550607eb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a0f637aa2670f1d2ddc4c1c0550607eb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/18fad9c7cec3278c1c64cc6daa813a4b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/18fad9c7cec3278c1c64cc6daa813a4b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/251b1a345cfc6d662f0318b57aa442e1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/251b1a345cfc6d662f0318b57aa442e1/AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:14:9-41
-	android:allowBackup
-		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:12:9-35
 	android:icon
 		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:12:9-35
 	android:theme
 		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:15:9-43
 activity#com.example.xyzreader.ui.ArticleListActivity
@@ -58,7 +89,7 @@ ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-re
 		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:19:13-45
 	android:name
 		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:18:13-51
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
 ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:21:17-69
@@ -74,7 +105,7 @@ ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-re
 		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:28:13-65
 	android:name
 		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:27:13-53
-intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.example.xyzreader.items
 ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:29:13-33:29
 action#android.intent.action.VIEW
 ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:30:17-69
@@ -110,43 +141,75 @@ ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-re
 		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml:42:19-53
 uses-sdk
 INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.android/build-cache/9d7d58698392e69bd5e4bae95791c20b2c8cfd35/output/AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:palette-v7:25.3.0] /home/felipe.bahiense/.android/build-cache/7f507bc51eaa5eaef956fee0a1c1ca8727ace51e/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:25.3.0] /home/felipe.bahiense/.android/build-cache/529d4f09c52d646eb30cac8d94172808d320d5b9/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.1.1] /home/felipe.bahiense/.android/build-cache/d6d46dca8b403ced1906ba2ac59edc1d1e7af774/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:25.3.0] /home/felipe.bahiense/.android/build-cache/fb07aa7298feddddddca6717e33ede1fbc1f4c7a/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/felipe.bahiense/.android/build-cache/99aed3563512a26f6564a22b6c660171bc65dafe/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/felipe.bahiense/.android/build-cache/8dbafca9079d66aefb506a2ceee1a26fb90bc1e2/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/felipe.bahiense/.android/build-cache/2c2d0994a72d4ed85d7bb608694d612816eda60a/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:25.3.0] /home/felipe.bahiense/.android/build-cache/445e90dc134bddabbd9803eb8fa8590896a08b6e/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.0] /home/felipe.bahiense/.android/build-cache/7220bfa76239f13d365622eda5f761cfd161f892/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.0] /home/felipe.bahiense/.android/build-cache/41dfabd8012c3b6395840b41991d86226865a5e5/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.0] /home/felipe.bahiense/.android/build-cache/4d14b306e6f5945927628d630b4dfb60995bb007/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.0] /home/felipe.bahiense/.android/build-cache/3f60d3efbd7f60f9ea921ed18aa49658c884df9d/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.0] /home/felipe.bahiense/.android/build-cache/7649a6da86a29a306d3d40f826d292c8e1f9b660/output/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/89873b5fde98173e9890fee9a6ed4409/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/89873b5fde98173e9890fee9a6ed4409/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:design:23.1.1] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/b2a61015a6463a9198b7cf0698e916f9/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/b2a61015a6463a9198b7cf0698e916f9/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f360c3f230aa8dc80be5754de595a02f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f360c3f230aa8dc80be5754de595a02f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/735e3e8612716d5b3e9984ecb7bad233/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/735e3e8612716d5b3e9984ecb7bad233/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:palette-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/7e0711c00fa4c86e71c3b143c6265232/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/7e0711c00fa4c86e71c3b143c6265232/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/3a59358356b9ce85e99ae1331008be40/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/3a59358356b9ce85e99ae1331008be40/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/5692775e7d17ab2eef080864ca334756/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/5692775e7d17ab2eef080864ca334756/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/4859babae05e842ab6d1d9ccb3377e6b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/4859babae05e842ab6d1d9ccb3377e6b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/a0a43345e80c4b6f0e98ecc712169d41/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/a0a43345e80c4b6f0e98ecc712169d41/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/1d882543609642155350bdee51c81f59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/1d882543609642155350bdee51c81f59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d4b99bd9b6fc1c818d50d1b292262763/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d4b99bd9b6fc1c818d50d1b292262763/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a0f637aa2670f1d2ddc4c1c0550607eb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a0f637aa2670f1d2ddc4c1c0550607eb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/18fad9c7cec3278c1c64cc6daa813a4b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/18fad9c7cec3278c1c64cc6daa813a4b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/251b1a345cfc6d662f0318b57aa442e1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/251b1a345cfc6d662f0318b57aa442e1/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.android/build-cache/9d7d58698392e69bd5e4bae95791c20b2c8cfd35/output/AndroidManifest.xml:23:9-52
+		ADDED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/89873b5fde98173e9890fee9a6ed4409/AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
 		INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml
 		INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml
 		INJECTED from /home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.android/build-cache/9d7d58698392e69bd5e4bae95791c20b2c8cfd35/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:palette-v7:25.3.0] /home/felipe.bahiense/.android/build-cache/7f507bc51eaa5eaef956fee0a1c1ca8727ace51e/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:cardview-v7:25.3.0] /home/felipe.bahiense/.android/build-cache/529d4f09c52d646eb30cac8d94172808d320d5b9/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:appcompat-v7:25.3.0] /home/felipe.bahiense/.android/build-cache/fb07aa7298feddddddca6717e33ede1fbc1f4c7a/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/felipe.bahiense/.android/build-cache/99aed3563512a26f6564a22b6c660171bc65dafe/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/felipe.bahiense/.android/build-cache/8dbafca9079d66aefb506a2ceee1a26fb90bc1e2/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/felipe.bahiense/.android/build-cache/2c2d0994a72d4ed85d7bb608694d612816eda60a/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.0] /home/felipe.bahiense/.android/build-cache/445e90dc134bddabbd9803eb8fa8590896a08b6e/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.0] /home/felipe.bahiense/.android/build-cache/7220bfa76239f13d365622eda5f761cfd161f892/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.0] /home/felipe.bahiense/.android/build-cache/41dfabd8012c3b6395840b41991d86226865a5e5/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.0] /home/felipe.bahiense/.android/build-cache/4d14b306e6f5945927628d630b4dfb60995bb007/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.0] /home/felipe.bahiense/.android/build-cache/3f60d3efbd7f60f9ea921ed18aa49658c884df9d/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.0] /home/felipe.bahiense/.android/build-cache/7649a6da86a29a306d3d40f826d292c8e1f9b660/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/89873b5fde98173e9890fee9a6ed4409/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f360c3f230aa8dc80be5754de595a02f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f360c3f230aa8dc80be5754de595a02f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/735e3e8612716d5b3e9984ecb7bad233/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/735e3e8612716d5b3e9984ecb7bad233/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:palette-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/7e0711c00fa4c86e71c3b143c6265232/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:palette-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/7e0711c00fa4c86e71c3b143c6265232/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/3a59358356b9ce85e99ae1331008be40/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/3a59358356b9ce85e99ae1331008be40/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/5692775e7d17ab2eef080864ca334756/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/5692775e7d17ab2eef080864ca334756/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/4859babae05e842ab6d1d9ccb3377e6b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/4859babae05e842ab6d1d9ccb3377e6b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/a0a43345e80c4b6f0e98ecc712169d41/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/a0a43345e80c4b6f0e98ecc712169d41/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/1d882543609642155350bdee51c81f59/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/1d882543609642155350bdee51c81f59/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d4b99bd9b6fc1c818d50d1b292262763/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d4b99bd9b6fc1c818d50d1b292262763/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a0f637aa2670f1d2ddc4c1c0550607eb/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a0f637aa2670f1d2ddc4c1c0550607eb/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/18fad9c7cec3278c1c64cc6daa813a4b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/18fad9c7cec3278c1c64cc6daa813a4b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/251b1a345cfc6d662f0318b57aa442e1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/251b1a345cfc6d662f0318b57aa442e1/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.android/build-cache/9d7d58698392e69bd5e4bae95791c20b2c8cfd35/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/89873b5fde98173e9890fee9a6ed4409/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.android/build-cache/9d7d58698392e69bd5e4bae95791c20b2c8cfd35/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:support-v13:25.3.0] /home/felipe.bahiense/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/89873b5fde98173e9890fee9a6ed4409/AndroidManifest.xml:26:9-47
