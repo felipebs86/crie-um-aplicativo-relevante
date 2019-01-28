@@ -20,6 +20,15 @@
         <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_132f04c02974ad555e844e2b5e6ece4da7c2e5fc/classes.dex" />
     </item>
     <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_be4a7f3a15d69abf8d694a6eb0cd908361885fcf/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/home/felipe.bahiense/.android/build-cache/7f507bc51eaa5eaef956fee0a1c1ca8727ace51e/output/jars/classes.jar"
         jumboMode="false"
@@ -81,6 +90,15 @@
         revision="25.0.2"
         sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
         <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_d2820418132aa64b0e902096631f27d5c2f6b1b6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1d761aa0bdb2baa470f491fd9ec7df17b3552d3">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_818db48625f4d0090cb4efe6708a21b73ddd0772/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -207,6 +225,15 @@
         revision="25.0.2"
         sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
         <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_2e98794c987cda37beb47fda7dbedafb856e7776.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5c3e76c5aa5d9125b18390f31e57c75ff1a9e6a2/classes.dex" />
     </item>
     <item
         is-multidex="true"
