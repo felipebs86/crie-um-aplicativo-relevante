@@ -1,4 +1,4 @@
-#Mon Jan 28 16:20:57 BRST 2019
+#Tue Jan 29 10:10:50 BRST 2019
 base.0=/home/felipe.bahiense/Documents/Pessoal/Udacity/crie-um-aplicativo-relevante/XYZReader/build/intermediates/transforms/dexMerger/debug/10
 path.0=classes.dex
 renamed.0=classes.dex
